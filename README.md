@@ -31,8 +31,9 @@
 <br />
 <br />
 ---
+
 <details>
-  <summary>:zap: Github Stats</summary>
+ 
 
   <img align="left" alt="Amit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amit-shahwal&count_private=true&show_icons=true&theme=dark" />
 
