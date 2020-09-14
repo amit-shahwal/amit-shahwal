@@ -32,12 +32,10 @@
 <br />
 ---
 
-<details>
- 
 
   <img align="left" alt="Amit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amit-shahwal&count_private=true&show_icons=true&theme=dark" />
 
-</details>
+
 
 
 [instagram]: https://instagram.com/a_mit_13/
